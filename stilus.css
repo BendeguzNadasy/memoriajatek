@@ -14,7 +14,17 @@ header, section, footer, aside {
     text-align: center;
 }
 
+body {
+    background-color: black;
+}
+
 section img {
     width: 100%;
 }
 
+main {
+    border-radius: 15px; 
+    background-color: white;
+    margin: auto;
+    width: 650px;
+}
